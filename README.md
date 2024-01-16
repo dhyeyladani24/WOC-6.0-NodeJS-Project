@@ -25,11 +25,6 @@
             margin-bottom: 10px;
         }
 
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-
         section {
             margin: 20px 0;
         }
